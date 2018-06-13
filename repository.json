@@ -1,5 +1,5 @@
-+{
-+  "name": "Hass.IO example add-on repository",
-+  "url": "https://github.com/Snailll/hassio-addons",
-+  "maintainer": "HomeAssistant <info@home-assistant.io>"
-+}
+{
+  "name": "snailll Hass.io Add-Ons",
+  "url": "https://github.com/Snailll/hassio-addons",
+  "maintainer": "https://github.com/Snailll/hassio-addons"
+}
